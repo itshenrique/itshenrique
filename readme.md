@@ -68,5 +68,5 @@ What I do for living?
 > _**Please Note that**_ _these languages above are not the only ones I work with, these are just the most used languages for my public repositories you'll find here on GitHub_ ;)
 
 <p align="center">
-<a href="https://github.com/itshenrique/"><img height="100" src="assets/img/linkedin-logo.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hpereira-batista/"><img height="100" src="assets/img/linkedin-logo.svg"></a>&nbsp;&nbsp;
 </p>
