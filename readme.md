@@ -21,7 +21,7 @@ Who am I?
 </details>
 <details align="center">
 <summary>
-What I do for living?
+What do I for living?
 </summary>
 <p align="center">
   I have been working with IT since 2018 in the 💻 software development area, always looking for new ways to solve challenges that are given to me and personal challenges that I create from my head.
