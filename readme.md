@@ -28,7 +28,7 @@ What do I for living?
 </h4>
 
 <p align="center">
-  📜🤓📚 I’m currently learning some JavaScripts frameworks and pursuing a postgraduate degree in Project Management</br>
+  📜🤓📚 I’m currently learning Unity and other technologies</br>
   👨🏽‍💻💬👔 Ask me about career, job offers and work related things <a href="https://www.linkedin.com/in/hpereira-batista/">here</a></br>
 </p>
 
